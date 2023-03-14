@@ -1,0 +1,26 @@
+html{
+    font-family: "Sofia Sans", "Oswald", "railway", sans-serif;
+}
+h1{
+    font-size:40px;
+    text-align:center;
+}
+h2{
+    font-size: 30px;
+    margin-left: 20px;
+    color: rgb(66, 66, 66)
+}
+.bold{
+    font-weight:bold;
+}
+body{
+    background-color:rgb(106, 164, 250);
+    width: 600px;
+    margin:0 auto;
+    border: 5px black;
+    padding: 0 20px 20px 20px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
